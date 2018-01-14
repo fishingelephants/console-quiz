@@ -1,4 +1,4 @@
-## Let's build a fun quiz game in the console! ##
+# Let's build a fun quiz game in the console!
 
 1. Build a function constructor called Question to describe a question. A question should include:
 a) question itself
@@ -18,7 +18,7 @@ c) correct answer (I would use a number for this)
 
 7. Suppose this code would be a plugin for other programmers to use in their code. So make sure that all your code is private and doesn't interfere with the other programmers code (Hint: we learned a special technique to do exactly that).
 
-## ADD ON
+### ADD ON
 
 8. After you display the result, display the next random question, so that the game never ends.
 
